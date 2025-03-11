@@ -1,6 +1,5 @@
 # DeepL4
 
-## **Description**
 Ce composant implémente une intelligence artificielle capable d'apprendre à jouer au Puissance 4 en utilisant l'**apprentissage par renforcement**. L'IA s'entraîne en jouant contre elle-même et contre d'autres adversaires, améliorant progressivement ses décisions grâce à une fonction de récompense.
 
 ## **Technologies Utilisées**
